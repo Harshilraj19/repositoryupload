@@ -1,0 +1,39 @@
+
+img{
+   display:block;
+  
+   width:auto;
+   
+}
+
+nav a{
+    color: aquamarine;
+    font-size: small;
+    font-family: cursive;
+    background-color: azure;
+}
+
+h1{
+    background-color: rgb(151, 151, 180);
+}
+
+p{
+   
+    font-size: medium;
+    color: brown;
+    text-align: justify;
+  
+    
+}
+
+footer p{
+    text-align: center;
+}
+
+
+
+/* https://www.w3schools.com/bootstrap5/default.asp
+
+http://mdbootstrap.com/basic-constructions/
+
+https://www.tutorialspoint.com/bootstrap */

@@ -1,0 +1,22 @@
+body{
+    font-family: 'Silkscreen', cursive;
+    background-image: url("../images/elephant.jpeg");
+}
+h1{
+    text-align: center;
+    color: rgb(12, 149, 5);
+    background-color: aliceblue;
+}
+th{
+
+    font-size: large;
+    color: blue;
+    font-family: 'Fuzzy Bubbles', cursive;
+    
+}
+
+footer{
+    text-align: center;
+    background-color: azure;
+    font-size: smaller;
+}
